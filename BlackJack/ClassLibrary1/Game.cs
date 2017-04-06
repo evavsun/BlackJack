@@ -90,6 +90,7 @@ namespace ClassLibrary1
                 } 
                 else
                 {
+                    Console.WriteLine(new string('-', 100));
                     Consider();
                     raz = true;
                     //Вызывается метод подсчета
@@ -134,6 +135,7 @@ namespace ClassLibrary1
             }
             else
             {
+                Console.WriteLine(new string('-', 100));
                 Consider();
                 //Вызывается метод подсчета
             }
