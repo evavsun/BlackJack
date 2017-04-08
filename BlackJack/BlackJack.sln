@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{D6D6958F-AE5A-4E8D-B276-BF7A0ED8C8A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CA9875F3-EAA7-4539-AD41-7D2F5A1FB555}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackLibrary", "ClassLibrary1\BlackJackLibrary.csproj", "{CA9875F3-EAA7-4539-AD41-7D2F5A1FB555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -18,7 +18,7 @@ namespace BlackJack
                 ConsoleKeyInfo key = Console.ReadKey();
                 if(key.KeyChar==13)
                 {
-                    new Game();
+                    new Game(); //Start a new game
                 }
                 else
                 {
