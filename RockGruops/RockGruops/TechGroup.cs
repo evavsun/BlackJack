@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace RockGruops
 {
-    struct Card
+    class TechGroup
     {
-        public SuitName Suit;
-        public CardName Cards;
-        public bool IsUsed;
     }
 }
